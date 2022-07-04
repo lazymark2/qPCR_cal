@@ -1,0 +1,11 @@
+name: shiny
+title:
+username:
+account: lazymark2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6110539
+bundleId: 5894568
+url: https://lazymark2.shinyapps.io/shiny/
+when: 1652264903.71142
+lastSyncTime: 1652264903.71143

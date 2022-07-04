@@ -1,0 +1,61 @@
+﻿Color	Position	Sample Name	Gene Name	Condition Name	Cq	Cq Mean	Cq Error	Excluded	Sample Type	Sample Type RQ	Gene Type	Condition Type	Replicate Group	Ratio	Ratio Error	Normalized Ratio	Normalized Ratio Error	Scaled Ratio	Scaled Ratio Error	Dye	Edited Call	Failure	Slope	EPF	Notes	Sample Prep Notes	Number
+255;66;41;24	B1	0	IL-6		19.30	19.34	0.04	Unchecked	Unknown	Unknown	Target	Unknown	B1	3.812E-2	6.102E-4	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.94	4.08			13
+255;66;41;24	B2	0	IL-6		19.38	19.34	0.04	Unchecked	Unknown	Unknown	Target	Unknown	B1	3.606E-2	5.773E-4	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.89	4.01			14
+255;66;41;24	B3	0	IL-6		19.35	19.34	0.04	Unchecked	Unknown	Unknown	Target	Unknown	B1	3.682E-2	5.894E-4	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.82	3.80			15
+255;66;41;24	B4	0	IL-6		-	-	-	Unchecked	Unknown	Unknown	Target	Unknown	B1	0.000E+0	-	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.00	0.05			16
+255;250;215;15	B5	0.1	IL-6		18.30	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	5.422E-2	3.424E-3	-	-	-	-	SYBR Green I	 	None	0.74	3.55			17
+255;250;215;15	B6	0.1	IL-6		18.45	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	4.887E-2	3.086E-3	-	-	-	-	SYBR Green I	 	None	0.74	3.63			18
+255;250;215;15	B7	0.1	IL-6		18.44	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	4.921E-2	3.107E-3	-	-	-	-	SYBR Green I	 	None	0.68	3.41			19
+255;250;215;15	B8	0.1	IL-6		18.42	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	4.989E-2	3.151E-3	-	-	-	-	SYBR Green I	 	None	0.77	3.65			20
+255;205;18;55	B9	1	IL-6		18.32	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.623E-2	1.571E-3	-	-	-	-	SYBR Green I	 	None	0.82	3.82			21
+255;205;18;55	B10	1	IL-6		18.29	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.741E-2	1.604E-3	-	-	-	-	SYBR Green I	 	None	0.73	3.49			22
+255;205;18;55	B11	1	IL-6		18.35	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.507E-2	1.539E-3	-	-	-	-	SYBR Green I	 	None	0.75	3.62			23
+255;205;18;55	B12	1	IL-6		18.35	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.507E-2	1.539E-3	-	-	-	-	SYBR Green I	 	None	0.82	3.84			24
+255;47;73;113	D1	0	GAP		14.56	14.59	0.02	Unchecked	Unknown	Unknown	Reference	Unknown	D1	-	-	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.72	3.24			37
+255;47;73;113	D2	0	GAP		14.60	14.59	0.02	Unchecked	Unknown	Unknown	Reference	Unknown	D1	-	-	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.73	3.28			38
+255;47;73;113	D3	0	GAP		14.60	14.59	0.02	Unchecked	Unknown	Unknown	Reference	Unknown	D1	-	-	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.71	3.24			39
+255;47;73;113	D4	0	GAP		-	-	-	Unchecked	Unknown	Unknown	Reference	Unknown	D1	-	-	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.00	0.01			40
+255;103;103;103	D5	0.1	GAP		14.15	14.10	0.09	Unchecked	Unknown	Unknown	Reference	Unknown	D5	-	-	-	-	-	-	SYBR Green I	 	None	0.65	3.06			41
+255;103;103;103	D6	0.1	GAP		14.15	14.10	0.09	Unchecked	Unknown	Unknown	Reference	Unknown	D5	-	-	-	-	-	-	SYBR Green I	 	None	0.66	3.11			42
+255;103;103;103	D7	0.1	GAP		14.12	14.10	0.09	Unchecked	Unknown	Unknown	Reference	Unknown	D5	-	-	-	-	-	-	SYBR Green I	 	None	0.64	3.00			43
+255;103;103;103	D8	0.1	GAP		13.96	14.10	0.09	Unchecked	Unknown	Unknown	Reference	Unknown	D5	-	-	-	-	-	-	SYBR Green I	 	None	0.61	2.83			44
+255;180;73;149	D9	1	GAP		14.20	14.17	0.04	Unchecked	Unknown	Unknown	Reference	Unknown	D9	-	-	-	-	-	-	SYBR Green I	 	None	0.63	2.92			45
+255;180;73;149	D10	1	GAP		14.19	14.17	0.04	Unchecked	Unknown	Unknown	Reference	Unknown	D9	-	-	-	-	-	-	SYBR Green I	 	None	0.61	2.87			46
+255;180;73;149	D11	1	GAP		14.11	14.17	0.04	Unchecked	Unknown	Unknown	Reference	Unknown	D9	-	-	-	-	-	-	SYBR Green I	 	None	0.61	2.82			47
+255;180;73;149	D12	1	GAP		14.17	14.17	0.04	Unchecked	Unknown	Unknown	Reference	Unknown	D9	-	-	-	-	-	-	SYBR Green I	 	None	0.64	3.01			48
+255;205;18;55	F1	2	IL-6		18.89	18.98	0.06	Unchecked	Unknown	Unknown	Target	Unknown	F1	4.615E-2	1.463E-3	-	-	-	-	SYBR Green I	 	None	0.84	3.83			61
+255;205;18;55	F2	2	IL-6		19.01	18.98	0.06	Unchecked	Unknown	Unknown	Target	Unknown	F1	4.247E-2	1.346E-3	-	-	-	-	SYBR Green I	 	None	0.78	3.73			62
+255;205;18;55	F3	2	IL-6		19.01	18.98	0.06	Unchecked	Unknown	Unknown	Target	Unknown	F1	4.247E-2	1.346E-3	-	-	-	-	SYBR Green I	 	None	0.78	3.72			63
+255;205;18;55	F4	2	IL-6		19.00	18.98	0.06	Unchecked	Unknown	Unknown	Target	Unknown	F1	4.276E-2	1.356E-3	-	-	-	-	SYBR Green I	 	None	0.79	3.75			64
+255;66;41;24	F5	4	IL-6		18.37	18.38	0.02	Unchecked	Unknown	Unknown	Target	Unknown	F5	4.704E-2	1.974E-3	-	-	-	-	SYBR Green I	 	None	0.78	3.72			65
+255;66;41;24	F6	4	IL-6		18.40	18.38	0.02	Unchecked	Unknown	Unknown	Target	Unknown	F5	4.607E-2	1.934E-3	-	-	-	-	SYBR Green I	 	None	0.72	3.52			66
+255;66;41;24	F7	4	IL-6		18.40	18.38	0.02	Unchecked	Unknown	Unknown	Target	Unknown	F5	4.607E-2	1.934E-3	-	-	-	-	SYBR Green I	 	None	0.72	3.53			67
+255;66;41;24	F8	4	IL-6		18.36	18.38	0.02	Unchecked	Unknown	Unknown	Target	Unknown	F5	4.737E-2	1.988E-3	-	-	-	-	SYBR Green I	 	None	0.78	3.69			68
+255;250;215;15	F9	6	IL-6		18.49	18.54	0.05	Unchecked	Unknown	Unknown	Target	Unknown	F9	5.366E-2	9.604E-4	-	-	-	-	SYBR Green I	 	None	0.71	3.49			69
+255;250;215;15	F10	6	IL-6		18.60	18.54	0.05	Unchecked	Unknown	Unknown	Target	Unknown	F9	4.972E-2	8.899E-4	-	-	-	-	SYBR Green I	 	None	0.68	3.39			70
+255;250;215;15	F11	6	IL-6		18.54	18.54	0.05	Unchecked	Unknown	Unknown	Target	Unknown	F9	5.183E-2	9.276E-4	-	-	-	-	SYBR Green I	 	None	0.68	3.37			71
+255;250;215;15	F12	6	IL-6		18.52	18.54	0.05	Unchecked	Unknown	Unknown	Target	Unknown	F9	5.256E-2	9.406E-4	-	-	-	-	SYBR Green I	 	None	0.71	3.51			72
+255;180;73;149	H1	2	GAP		14.40	14.45	0.05	Unchecked	Unknown	Unknown	Reference	Unknown	H1	-	-	-	-	-	-	SYBR Green I	 	None	0.65	2.99			85
+255;180;73;149	H2	2	GAP		14.46	14.45	0.05	Unchecked	Unknown	Unknown	Reference	Unknown	H1	-	-	-	-	-	-	SYBR Green I	 	None	0.64	2.97			86
+255;180;73;149	H3	2	GAP		14.51	14.45	0.05	Unchecked	Unknown	Unknown	Reference	Unknown	H1	-	-	-	-	-	-	SYBR Green I	 	None	0.65	3.02			87
+255;180;73;149	H4	2	GAP		14.44	14.45	0.05	Unchecked	Unknown	Unknown	Reference	Unknown	H1	-	-	-	-	-	-	SYBR Green I	 	None	0.65	3.02			88
+255;47;73;113	H5	4	GAP		13.99	13.96	0.06	Unchecked	Unknown	Unknown	Reference	Unknown	H5	-	-	-	-	-	-	SYBR Green I	 	None	0.65	3.03			89
+255;47;73;113	H6	4	GAP		13.92	13.96	0.06	Unchecked	Unknown	Unknown	Reference	Unknown	H5	-	-	-	-	-	-	SYBR Green I	 	None	0.64	2.98			90
+255;47;73;113	H7	4	GAP		14.03	13.96	0.06	Unchecked	Unknown	Unknown	Reference	Unknown	H5	-	-	-	-	-	-	SYBR Green I	 	None	0.62	2.96			91
+255;47;73;113	H8	4	GAP		13.90	13.96	0.06	Unchecked	Unknown	Unknown	Reference	Unknown	H5	-	-	-	-	-	-	SYBR Green I	 	None	0.64	2.94			92
+255;103;103;103	H9	6	GAP		14.24	14.27	0.03	Unchecked	Unknown	Unknown	Reference	Unknown	H9	-	-	-	-	-	-	SYBR Green I	 	None	0.59	2.83			93
+255;103;103;103	H10	6	GAP		14.26	14.27	0.03	Unchecked	Unknown	Unknown	Reference	Unknown	H9	-	-	-	-	-	-	SYBR Green I	 	None	0.58	2.78			94
+255;103;103;103	H11	6	GAP		14.30	14.27	0.03	Unchecked	Unknown	Unknown	Reference	Unknown	H9	-	-	-	-	-	-	SYBR Green I	 	None	0.58	2.74			95
+255;103;103;103	H12	6	GAP		14.28	14.27	0.03	Unchecked	Unknown	Unknown	Reference	Unknown	H9	-	-	-	-	-	-	SYBR Green I	 	None	0.58	2.75			96
+255;66;41;24	C1	2	IL-8		19.30	19.34	0.04	Unchecked	Unknown	Unknown	Target	Unknown	B1	3.812E-2	6.102E-4	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.94	4.08			13
+255;66;41;24	C2	2	IL-8		19.38	19.34	0.04	Unchecked	Unknown	Unknown	Target	Unknown	B1	3.606E-2	5.773E-4	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.89	4.01			14
+255;66;41;24	C3	2	IL-8		19.35	19.34	0.04	Unchecked	Unknown	Unknown	Target	Unknown	B1	3.682E-2	5.894E-4	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.82	3.80			15
+255;66;41;24	C4	2	IL-8		-	-	-	Unchecked	Unknown	Unknown	Target	Unknown	B1	0.000E+0	-	-	-	-	-	SYBR Green I	 	Replicate group contains positives and negatives.	0.00	0.05			16
+255;250;215;15	C5	0.1	IL-8		18.30	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	5.422E-2	3.424E-3	-	-	-	-	SYBR Green I	 	None	0.74	3.55			17
+255;250;215;15	C6	0.1	IL-8		18.45	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	4.887E-2	3.086E-3	-	-	-	-	SYBR Green I	 	None	0.74	3.63			18
+255;250;215;15	C7	0.1	IL-8		18.44	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	4.921E-2	3.107E-3	-	-	-	-	SYBR Green I	 	None	0.68	3.41			19
+255;250;215;15	C8	0.1	IL-8		18.42	18.40	0.07	Unchecked	Unknown	Unknown	Target	Unknown	B5	4.989E-2	3.151E-3	-	-	-	-	SYBR Green I	 	None	0.77	3.65			20
+255;205;18;55	C9	1	IL-8		18.32	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.623E-2	1.571E-3	-	-	-	-	SYBR Green I	 	None	0.82	3.82			21
+255;205;18;55	C10	1	IL-8		18.29	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.741E-2	1.604E-3	-	-	-	-	SYBR Green I	 	None	0.73	3.49			22
+255;205;18;55	C11	1	IL-8		18.35	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.507E-2	1.539E-3	-	-	-	-	SYBR Green I	 	None	0.75	3.62			23
+255;205;18;55	C12	1	IL-8		18.35	18.33	0.03	Unchecked	Unknown	Unknown	Target	Unknown	B9	5.507E-2	1.539E-3	-	-	-	-	SYBR Green I	 	None	0.82	3.84			24

@@ -1,0 +1,97 @@
+File Name	Analysis Name	Plate Id	Position	Sample Name	Gene Name	Condition Name	Cq	Cq Mean	Cq Error	Excluded	Sample Type	Sample Type RQ	Gene Type	Condition Type	Replicate Group	Ratio	Ratio Error	Normalized Ratio	Normalized Ratio Error	Scaled Ratio	Scaled Ratio Error	Dye	Edited Call	Failure	Slope	EPF	Notes	Sample Prep Notes	Number
+lzy_293T.lc96p	Rel Quant		A1	TGFbeta10	loxl-2		1.76	1.65	0.15556349186104	Unchecked	Unknown	Unknown	Reference	Unknown	A1							SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.34	0.859134			1
+lzy_293T.lc96p	Rel Quant		A2	TGFbeta10	loxl-2					Unchecked	Unknown	Unknown	Reference	Unknown	A1							SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.2374	0.5351268			2
+lzy_293T.lc96p	Rel Quant		A3	TGFbeta10	loxl-2		1.54	1.65	0.15556349186104	Unchecked	Unknown	Unknown	Reference	Unknown	A1							SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.3133	0.8152227			3
+lzy_293T.lc96p	Rel Quant		A4	TGFbeta0	loxl-2		1.73	1.53333333333333	0.186100331362771	Unchecked	Unknown	Run Calibrator	Reference	Unknown	A4							SYBR Green I	Unchecked	None	0.6371	1.840755			4
+lzy_293T.lc96p	Rel Quant		A5	TGFbeta0	loxl-2		1.51	1.53333333333333	0.186100331362771	Unchecked	Unknown	Run Calibrator	Reference	Unknown	A4							SYBR Green I	Unchecked	None	0.454	1.324275			5
+lzy_293T.lc96p	Rel Quant		A6	TGFbeta0	loxl-2		1.36	1.53333333333333	0.186100331362771	Unchecked	Unknown	Run Calibrator	Reference	Unknown	A4							SYBR Green I	Unchecked	None	0.571	1.706002			6
+lzy_293T.lc96p	Rel Quant		A7	TGFbeta10	CTGF					Unchecked	Unknown	Unknown	Target	Unknown	A7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0869	0.3457825			7
+lzy_293T.lc96p	Rel Quant		A8	TGFbeta10	CTGF					Unchecked	Unknown	Unknown	Target	Unknown	A7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1085	0.3804063			8
+lzy_293T.lc96p	Rel Quant		A9	TGFbeta10	CTGF					Unchecked	Unknown	Unknown	Target	Unknown	A7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0939	0.317592			9
+lzy_293T.lc96p	Rel Quant		A10	TGFbeta0	CTGF					Unchecked	Unknown	Run Calibrator	Target	Unknown	A10	0						SYBR Green I	Unchecked	None	0.0973	0.537163			10
+lzy_293T.lc96p	Rel Quant		A11	TGFbeta0	CTGF					Unchecked	Unknown	Run Calibrator	Target	Unknown	A10	0						SYBR Green I	Unchecked	None	0.055	0.2861947			11
+lzy_293T.lc96p	Rel Quant		A12	TGFbeta0	CTGF					Unchecked	Unknown	Run Calibrator	Target	Unknown	A10	0						SYBR Green I	Unchecked	None	0.058	0.2615756			12
+lzy_293T.lc96p	Rel Quant		B1	TGFbeta10	timp-1		1.73	1.99666666666667	0.402781992315115	Unchecked	Unknown	Unknown	Target	Unknown	B1	0.946057646725596	0.10201187836328					SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.2952	1.505472			13
+lzy_293T.lc96p	Rel Quant		B2	TGFbeta10	timp-1		1.8	1.99666666666667	0.402781992315115	Unchecked	Unknown	Unknown	Target	Unknown	B1	0.90125046261083	0.0971803915806967					SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.2445	1.309411			14
+lzy_293T.lc96p	Rel Quant		B3	TGFbeta10	timp-1		2.46	1.99666666666667	0.402781992315115	Unchecked	Unknown	Unknown	Target	Unknown	B1	0.570381857934212	0.0615033607239404					SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1979	1.156022			15
+lzy_293T.lc96p	Rel Quant		B4	TGFbeta0	timp-1					Unchecked	Unknown	Run Calibrator	Target	Unknown	B4	0						SYBR Green I	Unchecked	None	0.149	0.8186453			16
+lzy_293T.lc96p	Rel Quant		B5	TGFbeta0	timp-1					Unchecked	Unknown	Run Calibrator	Target	Unknown	B4	0						SYBR Green I	Unchecked	None	0.1053	0.578968			17
+lzy_293T.lc96p	Rel Quant		B6	TGFbeta0	timp-1					Unchecked	Unknown	Run Calibrator	Target	Unknown	B4	0						SYBR Green I	Unchecked	None	0.1015	0.366385			18
+lzy_293T.lc96p	Rel Quant		B7	TGFbeta10	FN					Unchecked	Unknown	Unknown	Target	Unknown	B7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1275	0.3260917			19
+lzy_293T.lc96p	Rel Quant		B8	TGFbeta10	FN					Unchecked	Unknown	Unknown	Target	Unknown	B7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1153	0.3236515			20
+lzy_293T.lc96p	Rel Quant		B9	TGFbeta10	FN					Unchecked	Unknown	Unknown	Target	Unknown	B7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.2128	0.5380005			21
+lzy_293T.lc96p	Rel Quant		B10	TGFbeta0	FN					Unchecked	Unknown	Run Calibrator	Target	Unknown	B10	0						SYBR Green I	Unchecked	None	0.0739	0.2396859			22
+lzy_293T.lc96p	Rel Quant		B11	TGFbeta0	FN					Unchecked	Unknown	Run Calibrator	Target	Unknown	B10	0						SYBR Green I	Unchecked	None	0.0557	0.3284302			23
+lzy_293T.lc96p	Rel Quant		B12	TGFbeta0	FN					Unchecked	Unknown	Run Calibrator	Target	Unknown	B10	0						SYBR Green I	Unchecked	None	0.0843	0.2736841			24
+lzy_293T.lc96p	Rel Quant		C1	TGFbeta10	timp-3					Unchecked	Unknown	Unknown	Target	Unknown	C1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0272	0.1065267			25
+lzy_293T.lc96p	Rel Quant		C2	TGFbeta10	timp-3					Unchecked	Unknown	Unknown	Target	Unknown	C1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0341	0.1098891			26
+lzy_293T.lc96p	Rel Quant		C3	TGFbeta10	timp-3					Unchecked	Unknown	Unknown	Target	Unknown	C1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0327	0.113062			27
+lzy_293T.lc96p	Rel Quant		C4	TGFbeta0	timp-3					Unchecked	Unknown	Run Calibrator	Target	Unknown	C4	0						SYBR Green I	Unchecked	None	0.0336	0.09965567			28
+lzy_293T.lc96p	Rel Quant		C5	TGFbeta0	timp-3					Unchecked	Unknown	Run Calibrator	Target	Unknown	C4	0						SYBR Green I	Unchecked	None	0.0326	0.08036531			29
+lzy_293T.lc96p	Rel Quant		C6	TGFbeta0	timp-3					Unchecked	Unknown	Run Calibrator	Target	Unknown	C4	0						SYBR Green I	Unchecked	None	0.0401	0.09862734			30
+lzy_293T.lc96p	Rel Quant		C7	TGFbeta10	snail					Unchecked	Unknown	Unknown	Target	Unknown	C7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0	4.403985E-07			31
+lzy_293T.lc96p	Rel Quant		C8	TGFbeta10	snail					Unchecked	Unknown	Unknown	Target	Unknown	C7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0	4.403985E-07			32
+lzy_293T.lc96p	Rel Quant		C9	TGFbeta10	snail					Unchecked	Unknown	Unknown	Target	Unknown	C7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0179	0.007718326			33
+lzy_293T.lc96p	Rel Quant		C10	TGFbeta0	snail					Unchecked	Unknown	Run Calibrator	Target	Unknown	C10	0						SYBR Green I	Unchecked	None	0.0395	0.108432			34
+lzy_293T.lc96p	Rel Quant		C11	TGFbeta0	snail					Unchecked	Unknown	Run Calibrator	Target	Unknown	C10	0						SYBR Green I	Unchecked	None	0.0618	0.1673372			35
+lzy_293T.lc96p	Rel Quant		C12	TGFbeta0	snail					Unchecked	Unknown	Run Calibrator	Target	Unknown	C10	0						SYBR Green I	Unchecked	None	0.0893	0.2490502			36
+lzy_293T.lc96p	Rel Quant		D1	TGFbeta10	a-sma					Unchecked	Unknown	Unknown	Target	Unknown	D1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1085	0.6209692			37
+lzy_293T.lc96p	Rel Quant		D2	TGFbeta10	a-sma					Unchecked	Unknown	Unknown	Target	Unknown	D1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1686	0.6200989			38
+lzy_293T.lc96p	Rel Quant		D3	TGFbeta10	a-sma					Unchecked	Unknown	Unknown	Target	Unknown	D1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0971	0.5522417			39
+lzy_293T.lc96p	Rel Quant		D4	TGFbeta0	a-sma					Unchecked	Unknown	Run Calibrator	Target	Unknown	D4	0						SYBR Green I	Unchecked	None	0.0651	0.3811909			40
+lzy_293T.lc96p	Rel Quant		D5	TGFbeta0	a-sma					Unchecked	Unknown	Run Calibrator	Target	Unknown	D4	0						SYBR Green I	Unchecked	None	0.0695	0.3974765			41
+lzy_293T.lc96p	Rel Quant		D6	TGFbeta0	a-sma					Unchecked	Unknown	Run Calibrator	Target	Unknown	D4	0						SYBR Green I	Unchecked	None	0.0635	0.365942			42
+lzy_293T.lc96p	Rel Quant		D7	TGFbeta10	Ncad					Unchecked	Unknown	Unknown	Target	Unknown	D7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0345	0.2105239			43
+lzy_293T.lc96p	Rel Quant		D8	TGFbeta10	Ncad					Unchecked	Unknown	Unknown	Target	Unknown	D7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0313	0.1881082			44
+lzy_293T.lc96p	Rel Quant		D9	TGFbeta10	Ncad					Unchecked	Unknown	Unknown	Target	Unknown	D7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0276	0.1521255			45
+lzy_293T.lc96p	Rel Quant		D10	TGFbeta0	Ncad					Unchecked	Unknown	Run Calibrator	Target	Unknown	D10	0						SYBR Green I	Unchecked	None	0.0283	0.1723466			46
+lzy_293T.lc96p	Rel Quant		D11	TGFbeta0	Ncad					Unchecked	Unknown	Run Calibrator	Target	Unknown	D10	0						SYBR Green I	Unchecked	None	0.0316	0.1872102			47
+lzy_293T.lc96p	Rel Quant		D12	TGFbeta0	Ncad					Unchecked	Unknown	Run Calibrator	Target	Unknown	D10	0						SYBR Green I	Unchecked	None	0.03	0.1695815			48
+lzy_293T.lc96p	Rel Quant		E1	TGFbeta10	slug					Unchecked	Unknown	Unknown	Target	Unknown	E1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0547	0.1630458			49
+lzy_293T.lc96p	Rel Quant		E2	TGFbeta10	slug					Unchecked	Unknown	Unknown	Target	Unknown	E1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0572	0.1694379			50
+lzy_293T.lc96p	Rel Quant		E3	TGFbeta10	slug					Unchecked	Unknown	Unknown	Target	Unknown	E1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0527	0.1273814			51
+lzy_293T.lc96p	Rel Quant		E4	TGFbeta0	slug					Unchecked	Unknown	Run Calibrator	Target	Unknown	E4	0						SYBR Green I	Unchecked	None	0.0344	0.1111263			52
+lzy_293T.lc96p	Rel Quant		E5	TGFbeta0	slug					Unchecked	Unknown	Run Calibrator	Target	Unknown	E4	0						SYBR Green I	Unchecked	None	0.0364	0.08278147			53
+lzy_293T.lc96p	Rel Quant		E6	TGFbeta0	slug					Unchecked	Unknown	Run Calibrator	Target	Unknown	E4	0						SYBR Green I	Unchecked	None	0.0143	0.1018966			54
+lzy_293T.lc96p	Rel Quant		E7	TGFbeta10	vim					Unchecked	Unknown	Unknown	Target	Unknown	E7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0	4.403985E-07			55
+lzy_293T.lc96p	Rel Quant		E8	TGFbeta10	vim					Unchecked	Unknown	Unknown	Target	Unknown	E7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0	4.403985E-07			56
+lzy_293T.lc96p	Rel Quant		E9	TGFbeta10	vim					Unchecked	Unknown	Unknown	Target	Unknown	E7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0	4.403985E-07			57
+lzy_293T.lc96p	Rel Quant		E10	TGFbeta0	vim					Unchecked	Unknown	Run Calibrator	Target	Unknown	E10	0						SYBR Green I	Unchecked	None	0	4.403985E-07			58
+lzy_293T.lc96p	Rel Quant		E11	TGFbeta0	vim					Unchecked	Unknown	Run Calibrator	Target	Unknown	E10	0						SYBR Green I	Unchecked	None	0	4.403985E-07			59
+lzy_293T.lc96p	Rel Quant		E12	TGFbeta0	vim					Unchecked	Unknown	Run Calibrator	Target	Unknown	E10	0						SYBR Green I	Unchecked	None	0	4.403985E-07			60
+lzy_293T.lc96p	Rel Quant		F1	TGFbeta10	smad2					Unchecked	Unknown	Unknown	Target	Unknown	F1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1285	0.7368407			61
+lzy_293T.lc96p	Rel Quant		F2	TGFbeta10	smad2					Unchecked	Unknown	Unknown	Target	Unknown	F1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1284	0.7117229			62
+lzy_293T.lc96p	Rel Quant		F3	TGFbeta10	smad2					Unchecked	Unknown	Unknown	Target	Unknown	F1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0864	0.4979587			63
+lzy_293T.lc96p	Rel Quant		F4	TGFbeta0	smad2					Unchecked	Unknown	Run Calibrator	Target	Unknown	F4	0						SYBR Green I	Unchecked	None	0.0749	0.4291675			64
+lzy_293T.lc96p	Rel Quant		F5	TGFbeta0	smad2					Unchecked	Unknown	Run Calibrator	Target	Unknown	F4	0						SYBR Green I	Unchecked	None	0.0862	0.490442			65
+lzy_293T.lc96p	Rel Quant		F6	TGFbeta0	smad2					Unchecked	Unknown	Run Calibrator	Target	Unknown	F4	0						SYBR Green I	Unchecked	None	0.0734	0.4261805			66
+lzy_293T.lc96p	Rel Quant		F7	TGFbeta10	twist					Unchecked	Unknown	Unknown	Target	Unknown	F7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1201	0.3429458			67
+lzy_293T.lc96p	Rel Quant		F8	TGFbeta10	twist					Unchecked	Unknown	Unknown	Target	Unknown	F7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1743	0.4164079			68
+lzy_293T.lc96p	Rel Quant		F9	TGFbeta10	twist					Unchecked	Unknown	Unknown	Target	Unknown	F7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.2616	0.5172132			69
+lzy_293T.lc96p	Rel Quant		F10	TGFbeta0	twist					Unchecked	Unknown	Run Calibrator	Target	Unknown	F10	0						SYBR Green I	Unchecked	None	0.0983	0.2420376			70
+lzy_293T.lc96p	Rel Quant		F11	TGFbeta0	twist					Unchecked	Unknown	Run Calibrator	Target	Unknown	F10	0						SYBR Green I	Unchecked	None	0.1166	0.2750806			71
+lzy_293T.lc96p	Rel Quant		F12	TGFbeta0	twist					Unchecked	Unknown	Run Calibrator	Target	Unknown	F10	0						SYBR Green I	Unchecked	None	0.1085	0.2587327			72
+lzy_293T.lc96p	Rel Quant		G1	TGFbeta10	col1a1					Unchecked	Unknown	Unknown	Target	Unknown	G1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1338	0.3697031			73
+lzy_293T.lc96p	Rel Quant		G2	TGFbeta10	col1a1					Unchecked	Unknown	Unknown	Target	Unknown	G1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0921	0.3164856			74
+lzy_293T.lc96p	Rel Quant		G3	TGFbeta10	col1a1					Unchecked	Unknown	Unknown	Target	Unknown	G1	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.1178	0.4185532			75
+lzy_293T.lc96p	Rel Quant		G4	TGFbeta0	col1a1					Unchecked	Unknown	Run Calibrator	Target	Unknown	G4	0						SYBR Green I	Unchecked	None	0.0667	0.2649426			76
+lzy_293T.lc96p	Rel Quant		G5	TGFbeta0	col1a1					Unchecked	Unknown	Run Calibrator	Target	Unknown	G4	0						SYBR Green I	Unchecked	None	0.0624	0.3619055			77
+lzy_293T.lc96p	Rel Quant		G6	TGFbeta0	col1a1					Unchecked	Unknown	Run Calibrator	Target	Unknown	G4	0						SYBR Green I	Unchecked	None	0.0503	0.2960057			78
+lzy_293T.lc96p	Rel Quant		G7	TGFbeta10	GAP					Unchecked	Unknown	Unknown	Target	Unknown	G7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.07	0.168234			79
+lzy_293T.lc96p	Rel Quant		G8	TGFbeta10	GAP					Unchecked	Unknown	Unknown	Target	Unknown	G7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0722	0.1931964			80
+lzy_293T.lc96p	Rel Quant		G9	TGFbeta10	GAP					Unchecked	Unknown	Unknown	Target	Unknown	G7	0						SYBR Green I	Unchecked	No normalized ratio because run calibrator is negative	0.0915	0.2916857			81
+lzy_293T.lc96p	Rel Quant		G10	TGFbeta0	GAP					Unchecked	Unknown	Run Calibrator	Target	Unknown	G10	0						SYBR Green I	Unchecked	None	0.0343	0.1468864			82
+lzy_293T.lc96p	Rel Quant		G11	TGFbeta0	GAP					Unchecked	Unknown	Run Calibrator	Target	Unknown	G10	0						SYBR Green I	Unchecked	None	0.0421	0.142717			83
+lzy_293T.lc96p	Rel Quant		G12	TGFbeta0	GAP					Unchecked	Unknown	Run Calibrator	Target	Unknown	G10	0						SYBR Green I	Unchecked	None	0.0389	0.1327804			84
+lzy_293T.lc96p	Rel Quant		H1	TGFbeta10	col3a1					Unchecked	Unknown	Unknown	Target	Unknown	H1	0						SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.2793	3.5518			85
+lzy_293T.lc96p	Rel Quant		H2	TGFbeta10	col3a1		1.52	1.66	0.197989898732233	Unchecked	Unknown	Unknown	Target	Unknown	H1	1.09429370126074	0.117995934320789	312.273571778612	2544.30513566928			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.6218	1.378925			86
+lzy_293T.lc96p	Rel Quant		H3	TGFbeta10	col3a1		1.8	1.66	0.197989898732233	Unchecked	Unknown	Unknown	Target	Unknown	H1	0.90125046261083	0.0971803915806967	257.185708646926	2095.46685492498			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.8821	3.61499			87
+lzy_293T.lc96p	Rel Quant		H4	TGFbeta0	col3a1					Unchecked	Unknown	Run Calibrator	Target	Unknown	H4	0						SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.2419	3.462863			88
+lzy_293T.lc96p	Rel Quant		H5	TGFbeta0	col3a1		18	9.69	11.7521147033204	Unchecked	Unknown	Run Calibrator	Target	Unknown	H4	1.1041788005374E-05	1.42433456024871E-06	0.00315094437196143	0.0256738557092938			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	1.3403	4.705479			89
+lzy_293T.lc96p	Rel Quant		H6	TGFbeta0	col3a1		1.38	9.69	11.7521147033204	Unchecked	Unknown	Run Calibrator	Target	Unknown	H4	1.11213608583187	0.143459905404732	317.365171184381	2585.88748333601			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.5585	1.476354			90
+lzy_293T.lc96p	Rel Quant		H7	TGFbeta10	Ecad		1.85	1.71	0.197989898732233	Unchecked	Unknown	Unknown	Target	Unknown	H7	0.870550563296124	0.0938700706869371	0.595290867396405	0.235334493216484			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.3391	0.7769164			91
+lzy_293T.lc96p	Rel Quant		H8	TGFbeta10	Ecad					Unchecked	Unknown	Unknown	Target	Unknown	H7	0						SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.2492	0.6868352			92
+lzy_293T.lc96p	Rel Quant		H9	TGFbeta10	Ecad		1.57	1.71	0.197989898732233	Unchecked	Unknown	Unknown	Target	Unknown	H7	1.05701804056138	0.113976559625881	0.722799125919806	0.285741937785156			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.5384	1.342945			93
+lzy_293T.lc96p	Rel Quant		H10	TGFbeta0	Ecad					Unchecked	Unknown	Run Calibrator	Target	Unknown	H10	0						SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.2084	0.5079303			94
+lzy_293T.lc96p	Rel Quant		H11	TGFbeta0	Ecad		1.35	0.985	0.51618795026618	Unchecked	Unknown	Run Calibrator	Target	Unknown	H10	1.13550442907088	0.146474302971039	0.77646887500104	0.311842974148871			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.3639	1.078012			95
+lzy_293T.lc96p	Rel Quant		H12	TGFbeta0	Ecad		0.62	0.985	0.51618795026618	Unchecked	Unknown	Run Calibrator	Target	Unknown	H10	1.88339203477469	0.242948004826857	1.28788162950983	0.517234947373132			SYBR Green I	Unchecked	Replicate group contains positives and negatives.	0.866	3.752985			96
