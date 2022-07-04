@@ -1,4 +1,4 @@
-options(shiny.maxRequestSize=30*1024^2)
+options(shiny.maxRequestSize=10*1024^2)
 library(tidyverse)
 library(shiny)
 library(vroom)
