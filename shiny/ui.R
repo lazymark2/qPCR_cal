@@ -6,6 +6,28 @@ library(shinyFeedback)
 library(DT)
 
 
+## upload module 
+upload_ui <- function(id){
+  tagList(
+  fileInput(NS(id,'upload'),'Data',buttonLabel = "Upload..."),
+  selectInput(NS(id,"PCR"), "PCR type", c(96,384)),
+  textAreaInput(NS(id,"ref_gene"), width = "100%",
+                label = "Reference gene", 
+                placeholder = 'GAPDH', 
+                rows = 1),
+  textAreaInput(NS(id,"ref_sample"), width = "100%",
+                label = "Reference group",
+                placeholder = 'CON', 
+                rows = 1),
+  actionButton(NS(id,"analyse"), "Analyse!", 
+               align="center", class = "btn-lg btn-success"),
+  downloadButton(NS(id,"tutorial"), label = "Download tutorial", 
+                 class = "btn-xs btn-link")
+  
+  )
+  
+}
+
 ## UI layout design 
 
 ui <- fluidPage(
@@ -15,37 +37,21 @@ ui <- fluidPage(
                shinyFeedback::useShinyFeedback(),
                fluidRow(
                  column(12,
-                    fileInput("upload", "Data", 
-                              buttonLabel = "Upload...")
-                    )
-                 )
-                 ,
+                        upload_ui('upload'))),
                fluidRow(
                  column(12,
-                        selectInput("PCR", "PCR type", c(96,384))
-                    )
-                  ),
+                        upload_ui('PCR'))),
                fluidRow(
                  column(12,
-                        textAreaInput("ref_gene", width = "100%",
-                                      label = "Reference gene", placeholder = 'GAPDH', rows=1)
-                        )
-                      ),
+                        upload_ui("ref_gene"))),
                fluidRow(
                  column(12,
-                        textAreaInput("ref_sample", width = "100%",
-                                      label = "Reference group",placeholder = 'CON', rows = 1)
-                        )
-                      ),
+                        upload_ui("ref_sample"))),
                fluidRow(
                  tags$br()
                  ),
                 fluidRow(
-                  column(6, offset = 3, 
-                   actionButton("analyse", "Analyse!", 
-                                align="center", class = "btn-lg btn-success")
-                  )
-                ),
+                  column(6, offset = 3, upload_ui("analyse"))),
                fluidRow(
                  tags$br()
                ),
@@ -71,10 +77,8 @@ ui <- fluidPage(
                  tags$br()
                ),
                fluidRow(
-                 column(4,
-                        downloadButton("tutorial", label = "Download tutorial", class = "btn-xs btn-link"))
-               )
-              ),
+                 column(4,upload_ui('tutorial')))),
+            
             mainPanel(width = 9,
               tabsetPanel(
                 tabPanel("Summary",

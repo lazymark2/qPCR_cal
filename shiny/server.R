@@ -16,7 +16,9 @@ library(RColorBrewer)
 library(openxlsx)
 library(outliers)
 
-
+load_file <- function(name) {
+  ext <- tools::file_ext(name)
+}
 
 server <- function(input, output, session) {
   
@@ -24,7 +26,7 @@ server <- function(input, output, session) {
   ## invalid file upload check 
   observeEvent(input$upload, {
     req(input$upload)
-    ext <- tools::file_ext(input$upload$name)
+    ext <- load_file(input$upload$name)
     exists_raw <- ext %in% c('txt', 'xlsx', 'xls')
     if (!exists_raw){
       shinyFeedback::showFeedbackDanger(inputId = "upload", 
@@ -39,7 +41,7 @@ server <- function(input, output, session) {
   ## check the input PCR type
   observeEvent(input$analyse, {
     req(input$upload)
-    ext <- tools::file_ext(input$upload$name)
+    ext <- load_file(input$upload$name)
     if ( !((ext == 'txt' && input$PCR == "96") | (ext %in% c('xls','xlsx') && input$PCR == "384"))){
       shinyFeedback::showFeedbackWarning(inputId = "PCR", 
                                          "please select correct PCR type !")
